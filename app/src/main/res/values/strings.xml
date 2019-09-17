@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kilo/Pounds calculator</string>
+    <string-array name="kg_to_lbs">
+        <item>Kg to Lbs</item>
+        <item>Lbs to Kg</item>
+    </string-array>
+</resources>
